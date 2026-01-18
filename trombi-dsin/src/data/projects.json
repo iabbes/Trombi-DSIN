@@ -1,0 +1,15 @@
+[
+    {
+      "name": "ERP Migration",
+      "description": "Migration ERP legacy",
+      "teams": ["Applications", "Data"],
+      "status": "In Progress"
+    },
+    {
+      "name": "Cloud Move",
+      "description": "Move infrastructure to cloud",
+      "teams": ["Infrastructure", "Security"],
+      "status": "Planning"
+    }
+  ]
+  
