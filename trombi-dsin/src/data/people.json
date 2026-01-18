@@ -2,7 +2,7 @@
     {
       "firstName": "Carlos",
       "lastName": "DA TORRE",
-      "photo": "/profile_pictures/Data-IA/Carlos.png",
+      "photo": "profile_pictures/Data-IA/Carlos.png",
       "department": "SI Entreprise",
     "group": "Data / IA",
       "role": "Responsable de groupe",
@@ -13,7 +13,7 @@
     {
       "firstName": "Laurent",
       "lastName": "BORDE",
-      "photo": "/profile_pictures/Data-IA/Laurent.png",
+      "photo": "profile_pictures/Data-IA/Laurent.png",
       "department": "SI Entreprise",
       "group": "Data / IA",
       "role": "RDSI",
@@ -24,7 +24,7 @@
     {
         "firstName": "Bertrand",
         "lastName": "PIMMEL",
-        "photo": "/profile_pictures/Data-IA/Bertrand.png",
+        "photo": "profile_pictures/Data-IA/Bertrand.png",
         "department": "SI Entreprise",
         "group": "Data / IA",
         "role": "RDSI",
@@ -35,7 +35,7 @@
     {
         "firstName": "Ugo",
         "lastName": "FIORESE",
-        "photo": "/profile_pictures/Data-IA/Ugo.png",
+        "photo": "profile_pictures/Data-IA/Ugo.png",
         "department": "SI Entreprise",
         "group": "Data / IA",
         "role": "Chef de projet Data",
@@ -46,7 +46,7 @@
     {
         "firstName": "Marc-Antoine",
         "lastName": "KRAEMER",
-        "photo": "/profile_pictures/Data-IA/Marc-Antoine.png",
+        "photo": "profile_pictures/Data-IA/Marc-Antoine.png",
         "department": "SI Entreprise",
         "group": "Data / IA",
         "role": "Chef de projet Data",
@@ -57,7 +57,7 @@
     {
         "firstName": "Daniele",
         "lastName": "VENZANO",
-        "photo": "/profile_pictures/Data-IA/Daniele.png",
+        "photo": "profile_pictures/Data-IA/Daniele.png",
         "department": "SI Entreprise",
         "group": "Data / IA",
         "role": "RDSI",
@@ -68,7 +68,7 @@
     {
         "firstName": "Ines",
         "lastName": "ABBES",
-        "photo": "/profile_pictures/Data-IA/Ines.jpg",
+        "photo": "profile_pictures/Data-IA/Ines.jpg",
         "department": "SI Entreprise",
         "group": "Data / IA",
         "role": "RDSI",
@@ -79,7 +79,7 @@
     {
         "firstName": "Fatima",
         "lastName": "FAHS",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Data / IA",
         "role": "RDSI",
@@ -90,7 +90,7 @@
     {
         "firstName": "Lotfi",
         "lastName": "MEHDI",
-        "photo": "/profile_pictures/Data-IA/Lotfi.png",
+        "photo": "profile_pictures/Data-IA/Lotfi.png",
         "department": "SI Entreprise",
         "group": "Data / IA",
         "role": "RDSI",
@@ -101,7 +101,7 @@
     {
         "firstName": "Florent",
         "lastName": "MEYER",
-        "photo": "/profile_pictures/Data-IA/Florent.png",
+        "photo": "profile_pictures/Data-IA/Florent.png",
         "department": "SI Entreprise",
         "group": "Data / IA",
         "role": "RDSI",
@@ -112,7 +112,7 @@
     {
         "firstName": "Pascal",
         "lastName": "FRITSCH",
-        "photo": "/profile_pictures/Data-IA/Pascal.png",
+        "photo": "profile_pictures/Data-IA/Pascal.png",
         "department": "SI Entreprise",
         "group": "Data / IA",
         "role": "RDSI",
@@ -123,7 +123,7 @@
     {
         "firstName": "Mickaël",
         "lastName": "ROUVRAIS",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "CIO Office",
         "group": "CIO Office",
         "role": "Responsable de département",
@@ -134,7 +134,7 @@
     {
         "firstName": "Jean-Michel",
         "lastName": "FIRDION",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "CIO Office",
         "group": "Performance & Gouvernance",
         "role": "Responsable de groupe",
@@ -145,7 +145,7 @@
     {
         "firstName": "Alexis",
         "lastName": "DE RIVOYRE",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "CIO Office",
         "group": "Performance & Gouvernance",
         "role": "Chargé de processus et qualité SI",
@@ -156,7 +156,7 @@
     {
         "firstName": "François",
         "lastName": "KUMPF",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "CIO Office",
         "group": "Performance & Gouvernance",
         "role": "Contrôleur de gestion informatique",
@@ -167,7 +167,7 @@
     {
         "firstName": "Véronique",
         "lastName": "HERBER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "CIO Office",
         "group": "Performance & Gouvernance",
         "role": "Chargé de pilotage contrat et budget",
@@ -178,7 +178,7 @@
     {
         "firstName": "Véronique",
         "lastName": "GIRAUDON",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "CIO Office",
         "group": "Performance & Gouvernance",
         "role": "Gestionnaire infrastructure",
@@ -189,7 +189,7 @@
     {
         "firstName": "Anne",
         "lastName": "MAGNERON",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "CIO Office",
         "group": "Performance & Gouvernance",
         "role": "Responsable de lots SI @Fact et ERP",
@@ -200,7 +200,7 @@
     {
         "firstName": "Eric",
         "lastName": "JEANGIRARD",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "CIO Office",
         "group": "Performance & Gouvernance",
         "role": "Responsable Portefeuille SI (RPM SI)",
@@ -211,7 +211,7 @@
     {
         "firstName": "Julien",
         "lastName": "VINCENT",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "CIO Office",
         "group": "Performance & Gouvernance",
         "role": "Architecte Référent",
@@ -222,7 +222,7 @@
     {
         "firstName": "Roland",
         "lastName": "EBERLIN",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "CIO Office",
         "group": "Performance & Gouvernance",
         "role": "Urbaniste SI",
@@ -233,7 +233,7 @@
     {
         "firstName": "Thomas",
         "lastName": "LAGRANGE",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "CIO Office",
         "group": "Performance & Gouvernance",
         "role": "Référent stratégie Data / IA (CDO)",
@@ -244,7 +244,7 @@
     {
         "firstName": "Sendil",
         "lastName": "SINIVASSANE",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Cybersécurité",
         "group": "Cybersécurité",
         "role": "RSSI",
@@ -255,7 +255,7 @@
     {
         "firstName": "Nicolas",
         "lastName": "BATH",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Cybersécurité",
         "group": "Cybersécurité",
         "role": "RSSI",
@@ -266,7 +266,7 @@
     {
         "firstName": "Pascal",
         "lastName": "PERNIGOTTO",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "SI Activités",
         "role": "Responsable de département",
@@ -277,7 +277,7 @@
     {
         "firstName": "Camille",
         "lastName": "DEBEUCKELAERE",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Industrie",
         "role": "Responsable de groupe",
@@ -288,7 +288,7 @@
     {
         "firstName": "Théo",
         "lastName": "COUSSON",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Industrie",
         "role": "RDSI",
@@ -299,7 +299,7 @@
     {
         "firstName": "Laurent",
         "lastName": "STROH",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Industrie",
         "role": "RDSI",
@@ -310,7 +310,7 @@
     {
         "firstName": "Natacha",
         "lastName": "BECHT",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Industrie",
         "role": "RDSI",
@@ -321,7 +321,7 @@
     {
         "firstName": "Hani",
         "lastName": "BOUABSA",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Industrie",
         "role": "RDSI",
@@ -332,7 +332,7 @@
     {
         "firstName": "Sébastien",
         "lastName": "KRIEGER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Industrie",
         "role": "Chargé de support SI",
@@ -343,7 +343,7 @@
     {
         "firstName": "Jessica",
         "lastName": "GRIPPAY",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Industrie",
         "role": "Chargé de support SI",
@@ -354,7 +354,7 @@
     {
         "firstName": "Aimé",
         "lastName": "BAHL",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Industrie",
         "role": "Chargé de support SI",
@@ -365,7 +365,7 @@
     {
         "firstName": "Quentin",
         "lastName": "MARXER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Industrie",
         "role": "Chef de projet",
@@ -376,7 +376,7 @@
     {
         "firstName": "Julien",
         "lastName": "DIEBOLD",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Clients",
         "role": "Responsable de groupe",
@@ -387,7 +387,7 @@
     {
         "firstName": "Anouar",
         "lastName": "BELGHOZLANE",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Clients",
         "role": "RDSI",
@@ -398,7 +398,7 @@
     {
         "firstName": "Gaëtan",
         "lastName": "WALTER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Clients",
         "role": "RDSI",
@@ -409,7 +409,7 @@
     {
         "firstName": "Lydie",
         "lastName": "THOMAS",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Clients",
         "role": "RDSI",
@@ -420,7 +420,7 @@
     {
         "firstName": "Vincent",
         "lastName": "HARTMEYER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Clients",
         "role": "RDSI",
@@ -431,7 +431,7 @@
     {
         "firstName": "Samuel",
         "lastName": "MASSON",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Clients",
         "role": "RDSI",
@@ -442,7 +442,7 @@
     {
         "firstName": "Margot",
         "lastName": "PETER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Clients",
         "role": "Chef de projet",
@@ -453,7 +453,7 @@
     {
         "firstName": "Yannick",
         "lastName": "SOUBIGOU",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions Clients",
         "role": "Chargé de solutions SI",
@@ -464,7 +464,7 @@
     {
         "firstName": "Vanessa",
         "lastName": "COPPENS",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "Responsable de groupe",
@@ -475,7 +475,7 @@
     {
         "firstName": "Christian",
         "lastName": "GIROUD",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -486,7 +486,7 @@
     {
         "firstName": "Nicolas",
         "lastName": "SCHMITZ",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -497,7 +497,7 @@
     {
         "firstName": "Sébastien",
         "lastName": "MULLER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -508,7 +508,7 @@
     {
         "firstName": "Laurent",
         "lastName": "SPECHT",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -519,7 +519,7 @@
     {
         "firstName": "Laurent",
         "lastName": "NEUNLIST",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -530,7 +530,7 @@
     {
         "firstName": "Capucine",
         "lastName": "MOUCHOTTE",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -541,7 +541,7 @@
     {
         "firstName": "Vincent",
         "lastName": "BOHLY",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -552,7 +552,7 @@
     {
         "firstName": "Florentin",
         "lastName": "MAZOYER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -563,7 +563,7 @@
     {
         "firstName": "Maryse",
         "lastName": "DEGBOE",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -574,7 +574,7 @@
     {
         "firstName": "Ramon",
         "lastName": "ACOSTA LOPEZ",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -585,7 +585,7 @@
     {
         "firstName": "Maxime",
         "lastName": "PLANÇON",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -596,7 +596,7 @@
     {
         "firstName": "Emerson",
         "lastName": "FUENTES",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -607,7 +607,7 @@
     {
         "firstName": "Frédéric",
         "lastName": "LANCIAL",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -618,7 +618,7 @@
     {
         "firstName": "Maud",
         "lastName": "NEYRAT",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "RDSI",
@@ -629,7 +629,7 @@
     {
         "firstName": "Guillaume",
         "lastName": "SCHEIBER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "Chargé de solutions SI",
@@ -640,7 +640,7 @@
     {
         "firstName": "Lydia",
         "lastName": "BERNHART",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "Chargé de solutions SI",
@@ -651,7 +651,7 @@
     {
         "firstName": "Aline",
         "lastName": "APFFEL",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "Chargé de solutions SI",
@@ -662,7 +662,7 @@
     {
         "firstName": "Rebecca",
         "lastName": "EY-MAURI",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "Chargé de solutions SI",
@@ -673,7 +673,7 @@
     {
         "firstName": "Guillaume",
         "lastName": "SCHWEITZER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "Chargé de solutions SI",
@@ -684,7 +684,7 @@
     {
         "firstName": "Chafik",
         "lastName": "MOUTCHOU",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Activités",
         "group": "Solutions eFluid",
         "role": "Chargé de solutions SI",
@@ -695,7 +695,7 @@
     {
         "firstName": "Alix",
         "lastName": "DURIEUX",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "SI Entreprise",
         "role": "Responsable de département",
@@ -706,7 +706,7 @@
     {
         "firstName": "Carla",
         "lastName": "RUF",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Solutions Groupe",
         "role": "Responsable de groupe",
@@ -717,7 +717,7 @@
     {
         "firstName": "Christian",
         "lastName": "FIX",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Solutions Groupe",
         "role": "Chargé de solutions SI",
@@ -728,7 +728,7 @@
     {
         "firstName": "Christine",
         "lastName": "MOCHEL",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Solutions Groupe",
         "role": "Chargé de solutions SI",
@@ -739,7 +739,7 @@
     {
         "firstName": "Pascal",
         "lastName": "CHAIGNE",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Solutions Groupe",
         "role": "RDSI",
@@ -750,7 +750,7 @@
     {
         "firstName": "Claude",
         "lastName": "HERRMANN",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Solutions Groupe",
         "role": "RDSI",
@@ -761,7 +761,7 @@
     {
         "firstName": "Carolane",
         "lastName": "LIROT",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Solutions Groupe",
         "role": "RDSI",
@@ -772,7 +772,7 @@
     {
         "firstName": "Laurent",
         "lastName": "BOYER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Solutions Groupe",
         "role": "RDSI",
@@ -783,7 +783,7 @@
     {
         "firstName": "Eddy",
         "lastName": "TORCHY",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Solutions Groupe",
         "role": "RDSI",
@@ -794,7 +794,7 @@
     {
         "firstName": "Thomas",
         "lastName": "JACOB",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Solutions Groupe",
         "role": "RDSI",
@@ -805,7 +805,7 @@
     {
         "firstName": "Alexandre",
         "lastName": "GUIGUI",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Solutions Groupe",
         "role": "RDSI",
@@ -816,7 +816,7 @@
     {
         "firstName": "Thierry",
         "lastName": "GOURE",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Services Transverses",
         "role": "Responsable de groupe",
@@ -827,7 +827,7 @@
     {
         "firstName": "Virginie",
         "lastName": "LOHMULLER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Services Transverses",
         "role": "Chargé de solutions SI",
@@ -838,7 +838,7 @@
     {
         "firstName": "Cédric",
         "lastName": "MAIGNAN",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Services Transverses",
         "role": "Chargé d'affaires exploitation",
@@ -849,7 +849,7 @@
     {
         "firstName": "Ludivine",
         "lastName": "BEUCHOT",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Services Transverses",
         "role": "Coordinateur bureautique",
@@ -860,7 +860,7 @@
     {
         "firstName": "Julien",
         "lastName": "TORBAL",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Intégration & Interfaces",
         "role": "Responsable de groupe",
@@ -871,7 +871,7 @@
     {
         "firstName": "Alexis",
         "lastName": "JOTZ",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Intégration & Interfaces",
         "role": "Responsable éditique",
@@ -882,7 +882,7 @@
     {
         "firstName": "Thomas",
         "lastName": "ECK",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Intégration & Interfaces",
         "role": "Chargé d'affaires exploitation",
@@ -893,7 +893,7 @@
     {
         "firstName": "Quentin",
         "lastName": "ALLENDER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Intégration & Interfaces",
         "role": "RDSI",
@@ -904,7 +904,7 @@
     {
         "firstName": "Pierre-Aimé",
         "lastName": "GUTH",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Intégration & Interfaces",
         "role": "Chef de projet technique",
@@ -915,7 +915,7 @@
     {
         "firstName": "Frédéric",
         "lastName": "LELIEUR",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "SI Entreprise",
         "group": "Intégration & Interfaces",
         "role": "RDSI",
@@ -926,7 +926,7 @@
     {
         "firstName": "Alexis",
         "lastName": "SCHON",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Opérateur Infrastructures",
         "role": "Responsable de département",
@@ -937,7 +937,7 @@
     {
         "firstName": "Mickaël",
         "lastName": "STALTER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Réseaux & Télécoms",
         "role": "Responsable de groupe",
@@ -948,7 +948,7 @@
     {
         "firstName": "Vincent",
         "lastName": "DIEMER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Réseaux & Télécoms",
         "role": "Chargé de projet télécoms",
@@ -959,7 +959,7 @@
     {
         "firstName": "Jesse",
         "lastName": "JORGE",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Réseaux & Télécoms",
         "role": "Chargé d'affaires télécoms",
@@ -970,7 +970,7 @@
     {
         "firstName": "Yannick",
         "lastName": "PETER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Réseaux & Télécoms",
         "role": "Chargé d'affaires télécoms",
@@ -981,7 +981,7 @@
     {
         "firstName": "Eric",
         "lastName": "ENTZMANN",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Réseaux & Télécoms",
         "role": "Chargé d'affaires télécoms",
@@ -992,7 +992,7 @@
     {
         "firstName": "Mickaël",
         "lastName": "BAUER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Réseaux & Télécoms",
         "role": "Chargé d'affaires télécoms",
@@ -1003,7 +1003,7 @@
     {
         "firstName": "Caroline",
         "lastName": "MOUSSA",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Réseaux & Télécoms",
         "role": "Administratrice réseaux sécurité",
@@ -1014,7 +1014,7 @@
     {
         "firstName": "Régis",
         "lastName": "BENAY",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Réseaux & Télécoms",
         "role": "Administrateur réseaux sécurité",
@@ -1025,7 +1025,7 @@
     {
         "firstName": "Nicolas",
         "lastName": "REGALL",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Réseaux & Télécoms",
         "role": "Administrateur réseaux sécurité",
@@ -1036,7 +1036,7 @@
     {
         "firstName": "Monica",
         "lastName": "VELASQUEZ",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Réseaux & Télécoms",
         "role": "Cheffe de projet technique",
@@ -1047,7 +1047,7 @@
     {
         "firstName": "Hervé",
         "lastName": "JUNG",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Réseaux & Télécoms",
         "role": "Technicien télécoms",
@@ -1058,7 +1058,7 @@
     {
         "firstName": "Touffek",
         "lastName": "SELAK",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Réseaux & Télécoms",
         "role": "Technicien télécoms",
@@ -1069,7 +1069,7 @@
     {
         "firstName": "Damien",
         "lastName": "GARCIA",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "IT / OT",
         "role": "Responsable de groupe",
@@ -1080,7 +1080,7 @@
     {
         "firstName": "Pierre",
         "lastName": "ROUSSELOT",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "IT / OT",
         "role": "Chargé de solutions SI",
@@ -1091,7 +1091,7 @@
     {
         "firstName": "Célia",
         "lastName": "LOPEZ",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "IT / OT",
         "role": "Chargé d'affaires exploitation",
@@ -1102,7 +1102,7 @@
     {
         "firstName": "Gabriel",
         "lastName": "FAULHABER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "IT / OT",
         "role": "Chargé d'affaires exploitation",
@@ -1113,7 +1113,7 @@
     {
         "firstName": "Renaud",
         "lastName": "BERNHARD",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "IT / OT",
         "role": "Chargé d'affaires exploitation",
@@ -1124,7 +1124,7 @@
     {
         "firstName": "Quentin",
         "lastName": "KAPPLER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "IT / OT",
         "role": "Chargé d'affaires exploitation",
@@ -1135,7 +1135,7 @@
     {
         "firstName": "Thierry",
         "lastName": "QUETEL",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "IT / OT",
         "role": "Chef de projet technique",
@@ -1146,7 +1146,7 @@
     {
         "firstName": "Julien",
         "lastName": "ERNWEIN",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "IT / OT",
         "role": "Chef de projet technique",
@@ -1157,7 +1157,7 @@
     {
         "firstName": "Antoine",
         "lastName": "OECHSNER DE CONINCK",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "IT / OT",
         "role": "Chef de projet technique",
@@ -1168,7 +1168,7 @@
     {
         "firstName": "Florian",
         "lastName": "HEINTZ",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "IT / OT",
         "role": "Chef de projet technique",
@@ -1179,7 +1179,7 @@
     {
         "firstName": "Matthieu",
         "lastName": "MARTINI",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Exploitation",
         "role": "Responsable de groupe",
@@ -1190,7 +1190,7 @@
     {
         "firstName": "Cédric",
         "lastName": "OLIVIER",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Exploitation",
         "role": "Chef de projet technique",
@@ -1201,7 +1201,7 @@
     {
         "firstName": "Vincent",
         "lastName": "HAUSSWALD",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Exploitation",
         "role": "Chef de projet technique",
@@ -1212,7 +1212,7 @@
     {
         "firstName": "Hugo",
         "lastName": "SICRE",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Exploitation",
         "role": "Chef de projet technique",
@@ -1223,7 +1223,7 @@
     {
         "firstName": "Jean-Baptiste",
         "lastName": "ZIMMERMANN",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Exploitation",
         "role": "Chargé d'affaires exploitation",
@@ -1234,7 +1234,7 @@
     {
         "firstName": "Stéphane",
         "lastName": "VERGNAUD",
-        "photo": "/profile_pictures/es.png",
+        "photo": "profile_pictures/es.png",
         "department": "Opérateur Infrastructures",
         "group": "Exploitation",
         "role": "Chargé d'affaires exploitation",
