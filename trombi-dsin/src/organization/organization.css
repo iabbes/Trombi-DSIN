@@ -1,0 +1,112 @@
+.org-container {
+    margin-top: 20px;
+  }
+  
+  .org-header {
+    background: #d6df23;
+    padding: 20px;
+    text-align: center;
+    border-radius: 12px;
+  }
+  
+  .org-header h1 {
+    margin: 0;
+    color: #143a5c;
+  }
+  
+  .org-header h2 {
+    margin: 5px 0 0;
+    font-weight: normal;
+  }
+  
+  .org-manager {
+    margin: 15px 0;
+    background: #3f4f4f;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .org-perimeters {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 15px;
+  }
+  
+  .org-perimeter {
+    padding: 12px;
+    border-radius: 12px;
+  }
+  
+  .org-perimeter h3 {
+    margin-top: 0;
+    text-align: center;
+  }
+  
+  .org-member {
+    background: white;
+    padding: 8px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    font-size: 14px;
+  }
+  
+  .org-member span {
+    display: block;
+    font-size: 12px;
+    color: #555;
+  }
+  
+  /* Couleurs */
+  .blue { background: #9fc4eb; }
+  .green { background: #9ad27c; }
+  .yellow { background: #f4f18a; }
+  .orange { background: #f6b26b; }
+  
+  .org-support {
+    margin-top: 20px;
+    background: #4fc3f7;
+    padding: 12px;
+    border-radius: 10px;
+  }
+  
+  .org-support-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .org-support-list span {
+    background: white;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-size: 13px;
+  }
+  
+  /* Onglets groupes */
+  .org-tabs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .org-tabs button {
+    border: none;
+    padding: 8px 14px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  .org-tabs button.active {
+    background: #0b1f33;
+    color: white;
+  }
+  
+  /* Mobile */
+  @media (max-width: 768px) {
+    .org-tabs {
+      overflow-x: auto;
+    }
+  }
+  
